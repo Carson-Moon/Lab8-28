@@ -7,7 +7,7 @@ public class Rook : MonoBehaviour
     private Color gizmoColor = Color.yellow;
 
 #if UNITY_EDITOR
-    private void OnDrawGizmos()
+    private void OnDrawGizmosSelected()
     {
         Gizmos.color = gizmoColor;
         //Vector3 forwardDirection = transform.TransformDirection(Vector3.forward) * gizmoSize;
