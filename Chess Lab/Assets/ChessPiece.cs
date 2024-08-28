@@ -4,5 +4,8 @@ using UnityEngine;
 
 public class ChessPiece : MonoBehaviour
 {
-    
+    public virtual void CheckMoves()
+    {
+        
+    }
 }

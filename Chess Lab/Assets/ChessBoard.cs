@@ -51,7 +51,7 @@ public class ChessBoard : MonoBehaviour
                 //ToggleColor();
                 //Gizmos.color = activeColor;
 
-                Gizmos.DrawCube(new Vector3(j, i, 0), Vector3.one);
+                Gizmos.DrawWireCube(new Vector3(j, i, 0), Vector3.one);
             }
 
             layer++;
