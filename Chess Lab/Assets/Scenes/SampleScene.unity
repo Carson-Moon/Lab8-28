@@ -1203,6 +1203,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8633954808855729603, guid: e9cb1524f4a772146bdfc868c0be674b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8633954808855729603, guid: e9cb1524f4a772146bdfc868c0be674b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8633954808855729603, guid: e9cb1524f4a772146bdfc868c0be674b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8938315581889771176, guid: e9cb1524f4a772146bdfc868c0be674b, type: 3}
       propertyPath: m_Name
       value: Rook (2)
